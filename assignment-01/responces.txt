@@ -1,5 +1,11 @@
 Alexander Kaliczak 
-
-Hello!
-
-Hello, again!
+Q1. How is the web different from the internet?
+A1. The internet is the hardware, the physical wires and networks which connect computer's together. The web, world wide web, or 
+www. Is the software, the application which utilitzes the internet to allow us to share information with one another via websites. 
+Q2. Briefly describe how the internet works
+A2. Routers send packets of information to one another via established protocols 
+Q3. What is a directory, and what is its relationship to files?
+A3. A directory is a method of organizing files into a hierarchy
+Q4. Why is using a VCS beneficial?
+A4. It allows for near seamless cooperation between a team while working on a joint project, joinning together editied files into 
+a common version. 
