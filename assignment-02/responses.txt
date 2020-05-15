@@ -1,0 +1,23 @@
+Alexander Kaliczak
+
+Q1. Briefly describe one way how data travels on the internet
+A1. Data is divided into packets, which then hops between Internet service
+providers(ISP)
+
+Q2. What is the relationship between an IP address and the DNS?
+A2. Each computer is assigned an internet protocol (IP) address, DNS is like a
+phone book in that it stores names of websites and converts it into IP
+address
+
+Q3. What is a cookie?
+A3. An HTTP cookie is a packet of information that a webpage sends to your
+web browser. Which it then stores onto your computer, normally for data related
+to your visit and activity of that website.
+
+Q4. List the three basic parts of a URL.
+A4.
+1. The scheme which identifies which protocol is used
+2. The host name which identifies whose hosting the data. Host names can be
+followed by port numbers too, but well known port numbers are normally omited
+from the url.
+3. The path, which identifies what file within the host is being accessed 
